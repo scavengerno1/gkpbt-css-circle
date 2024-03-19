@@ -4,5 +4,11 @@
 .circle{
 			border-radius:50%;
 			width:500;
-			height:500;
+			
+            .blue {
+			background-color:blue
+}
+
+.red {
+    background-color:red
 }
